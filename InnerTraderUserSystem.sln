@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34221.43
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerTraderUserSystem", "InnerTraderUserSystem\InnerTraderUserSystem.csproj", "{2A257DCD-4ADE-4D1B-91ED-5BDD9D68B383}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InnerTraderUserSystem", "InnerTraderUserSystem\InnerTraderUserSystem.csproj", "{2A257DCD-4ADE-4D1B-91ED-5BDD9D68B383}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InnerTraderUserSystemDataService", "InnerTraderUserSystemDataService\InnerTraderUserSystemDataService.csproj", "{FD2D9B55-0825-4F0A-AADB-4F131488061B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{2A257DCD-4ADE-4D1B-91ED-5BDD9D68B383}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2A257DCD-4ADE-4D1B-91ED-5BDD9D68B383}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2A257DCD-4ADE-4D1B-91ED-5BDD9D68B383}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2D9B55-0825-4F0A-AADB-4F131488061B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2D9B55-0825-4F0A-AADB-4F131488061B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2D9B55-0825-4F0A-AADB-4F131488061B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2D9B55-0825-4F0A-AADB-4F131488061B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
